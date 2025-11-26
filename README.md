@@ -18,7 +18,7 @@
 
 ## 💡 Sobre Mí
 
-> **Científico de Datos** con formación en Economía y posgrado en Gestión Financiera. Cuento con más de 5 años de experiencia en el sector financiero, experto en identificar patrones complejos, tendencias y análisis de fraudes en emisores de tarjetas, adquirencia y canales electrónicos, utilizando Machine Learning y análisis avanzado de datos. Además, tengo habilidades para realizar análisis en otras áreas, aplicando metodologías rigurosas de ciencia de datos según las necesidades del negocio. Mi principal valor es la capacidad para identificar patrones complejos y tendencias, así como implementar soluciones predictivas robustas para la mejora continua.
+> **Científico de Datos** con formación en Economía y posgrado en Gestión Financiera. Cuento con más de 6 años de experiencia en el sector financiero, experto en identificar patrones complejos, tendencias y análisis de fraudes en emisores de tarjetas, adquirencia y canales electrónicos, utilizando Machine Learning y análisis avanzado de datos. Además, tengo habilidades para realizar análisis en otras áreas, aplicando metodologías rigurosas de ciencia de datos según las necesidades del negocio. Mi principal valor es la capacidad para identificar patrones complejos y tendencias, así como implementar soluciones predictivas robustas para la mejora continua.
 
 ---
 
