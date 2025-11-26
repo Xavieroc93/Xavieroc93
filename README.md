@@ -88,9 +88,10 @@ Implementación de SHAP/LIME para justificar decisiones de alertas de fraude. Cu
 
 ¿Interesado en colaborar en proyectos de **Data Science**, **Detección de Fraude** o **Análisis de Riesgo**?
 
-📧 **Email:** `datascience.cfernandez@gmail.com`  
+📧 **Email:** `datascience.cfernandez@gmail.com`
+               `xavieroc93_oc@hotmail.es`
 🔗 **LinkedIn:** [javier-fernandez-fraud-analyst](https://www.linkedin.com/in/javier-fernandez-fraud-analyst)  
-💻 **GitHub:** [tu-usuario](https://github.com/tu-usuario)
+💻 **GitHub:** [Xavieroc93]([https://github.com/tu-usuario](https://github.com/Xavieroc93))
 
 ---
 
