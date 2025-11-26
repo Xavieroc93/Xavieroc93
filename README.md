@@ -30,10 +30,9 @@
 ### 🤖 **Machine Learning & AI**
 | Área | Expertise |
 |:---|:---|
-| **Modelado** | Clasificación Binaria, Regresión, Clustering, Series Temporales |
+| **Machinelearning** | Clasificación Binaria, Regresión, Clustering, Series Temporales, Modelos supervisados y no supervisados |
 | **Técnicas Avanzadas** | Dimensionality Reduction (PCA, t-SNE, UMAP), Feature Engineering, Hyperparameter Tuning |
 | **Frameworks** | Scikit-learn, TensorFlow/Keras, XGBoost, LightGBM |
-| **Interpretabilidad** | SHAP, LIME (Explainable AI para cumplimiento regulatorio) |
 
 ### 📊 **Visualización & BI**
 - Matplotlib | Seaborn | Plotly | **Power BI** | Streamlit | Tableau
