@@ -74,6 +74,7 @@ Implementación de SHAP/LIME para justificar decisiones de alertas de fraude. Cu
 | **IBM Data Science Professional Certificate** | Coursera | [Ver](https://www.coursera.org/account/accomplishments/professional-cert/ND7Z4AYCPLMO) |
 | **Machine Learning Specialization** | Coursera/Stanford | [Ver](https://www.coursera.org/account/accomplishments/specialization/752PQNYKHSYV) |
 | **Data Science Bootcamp** | Alura Cursos | [Ver](https://app.aluracursos.com/user/xavieroc93-oc/program/8/certificate) |
+| **Ciencia de datos e Inteligencia Artificial** | Universidad Nacional Piura | [Ver](https://drive.google.com/file/d/16IORQDxfGZedJKJbj-P2vUCTsvMnfGBD/view?usp=drive_link) |
 
 ---
 
