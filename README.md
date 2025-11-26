@@ -25,7 +25,7 @@
 ## 🛠️ Tech Stack & Competencias
 
 ### 🐍 **Lenguajes & Bases de Datos**
-- **Python** | SQL | PySpark (Big Data) | Bash/Linux
+- **Python** | SQL | PySpark (Big Data) |
 
 ### 🤖 **Statistics and Machine Learning**
 
@@ -38,7 +38,7 @@
 | **Dimensionality Reduction** | PCA, t-SNE, UMAP, Autoencoders |
 | **ML Frameworks** | Scikit-learn, Scipy, TensorFlow, Keras |
 | **Data Processing** | Pandas, NumPy |
-| **Big Data** | PySpark, Dask ||
+| **Big Data** | PySpark ||
 
 ### 📊 **Visualización & BI**
 - Matplotlib | Seaborn | Plotly | **Power BI** | Streamlit | Tableau
@@ -50,7 +50,7 @@
 - Gestión de Riesgos Financieros (GAFILAT, UIF)
 
 ---
-
+<!--
 ## 🎯 Proyectos Destacados
 
 ### 🔴 **Detección de Fraude en Transacciones**
@@ -64,7 +64,7 @@ EDA exhaustivo para descubrir tendencias y anomalías en datos transaccionales. 
 ### 🔍 **Explicabilidad de Modelos de Riesgo**
 Implementación de SHAP/LIME para justificar decisiones de alertas de fraude. Cumplimiento con regulaciones financieras y auditoría interna.
 - **Tecnologías:** Python, SHAP, TensorFlow
-
+-->
 ---
 
 ## 🏆 Certificaciones & Formación Continua
