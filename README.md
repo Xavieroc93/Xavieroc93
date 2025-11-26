@@ -1,4 +1,4 @@
-# 📊 Portafolio de Data Science Aplicado a Riesgo y Fraude
+# 📊 Data Science & Fraud Detection
 
 ## Christian Javier Fernández Ocaña
 
@@ -9,61 +9,88 @@
   <a href="mailto:datascience.cfernandez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+  <a href="https://github.com/tu-usuario">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
 
-### 💡 Sobre Mí
+## 💡 Sobre Mí
 
-**Científico de Datos** con formación en Economía y posgrado en Gestión Financiera. Cuento con **más de 5 años de experiencia** aplicando Machine Learning (ML) y análisis de datos en el sector financiero, enfocado principalmente en la **Detección de Fraude y Análisis de Riesgo**.
-
-Mi valor principal es la habilidad para identificar patrones y tendencias de fraude complejos e implementar soluciones predictivas robustas para **reducir la exposición a pérdidas financieras**.
+> **Científico de Datos** especializado en **Detección de Fraude Financiero** con 5+ años de experiencia en el sector financiero. Experto en identificar patrones complejos y tendencias de riesgo en emisores de tarjetas, adquirencia y canales electrónicos. Implemento soluciones predictivas robustas con Machine Learning para minimizar pérdidas financieras y mejorar la seguridad transaccional.
 
 ---
 
-### 🛠️ Habilidades Técnicas (Tech Stack)
+## 🛠️ Tech Stack & Competencias
 
-Presento un desglose de mis *skills*, cubriendo el ciclo completo de la Ciencia de Datos:
+### 🐍 **Lenguajes & Bases de Datos**
+- **Python** | SQL | PySpark (Big Data) | Bash/Linux
 
-| Categoría | Aptitudes y Herramientas |
-| :--- | :--- |
-| **Lenguajes y BD** | **Python**, SQL (Extracción y Limpieza), PySpark (Big Data). |
-| **Machine Learning** | Regresión, Clasificación, Clustering, Series de Tiempo, Redes Neuronales. |
-| **Modelado Avanzado** | **Dimensionality Reduction** (PCA, t-SNE, UMAP, Autoencoders). Feature Selection y Hyperparameter Optimization. |
-| **Paquetes Core** | Scikit-learn, Scipy, **TensorFlow/Keras**, **Pandas**. |
-| **Visualización** | Matplotlib, Seaborn, Plotly, **Power BI**, Streamlit. |
+### 🤖 **Machine Learning & AI**
+| Área | Expertise |
+|:---|:---|
+| **Modelado** | Clasificación Binaria, Regresión, Clustering, Series Temporales |
+| **Técnicas Avanzadas** | Dimensionality Reduction (PCA, t-SNE, UMAP), Feature Engineering, Hyperparameter Tuning |
+| **Frameworks** | Scikit-learn, TensorFlow/Keras, XGBoost, LightGBM |
+| **Interpretabilidad** | SHAP, LIME (Explainable AI para cumplimiento regulatorio) |
 
----
+### 📊 **Visualización & BI**
+- Matplotlib | Seaborn | Plotly | **Power BI** | Streamlit | Tableau
 
-### 📂 Proyectos Clave (Data Science for Risk)
-
-*Estos son ejemplos de tus proyectos de fraude. Asegúrate de que cada uno esté vinculado a su respectiva carpeta en tu repositorio.*
-
-1.  **[Título de tu Proyecto de Detección de Fraude en Transacciones]**: Modelado de clasificación para predecir transacciones fraudulentas, optimizando el rendimiento con técnicas para manejo de clases desbalanceadas.
-2.  **[Título de tu Proyecto de Análisis de Patrones de Fraude]**: Análisis Exploratorio de Datos (EDA) para descubrir tendencias y patrones de riesgo que alimentan los sistemas de monitoreo transaccional.
-3.  **[Título de tu Proyecto de Interpretabilidad de Modelos]**: Aplicación de técnicas de explicabilidad (SHAP/LIME) para justificar las alertas de riesgo y cumplir con los requisitos regulatorios.
-
----
-
-### 🎓 Certificaciones en Ciencia de Datos
-
-Mi compromiso con el aprendizaje continuo se refleja en estas certificaciones clave:
-
-* **IBM Data Science Professional Certificate** (Coursera):
-    * [Ver Credencial](https://www.coursera.org/account/accomplishments/professional-cert/ND7Z4AYCPLMO)
-* **Machine Learning with Scikit-learn, PyTorch & Hugging Face** (Coursera/Stanford):
-    * [Ver Credencial](https://www.coursera.org/account/accomplishments/specialization/752PQNYKHSYV)
-* **Formación en Data Science** (Alura Cursos):
-    * [Ver Certificado](https://app.aluracursos.com/user/xavieroc93-oc/program/8/certificate)
+### 💼 **Especialización: Detección de Fraude**
+- Análisis de Patrones de Transacciones
+- Manejo de Datasets Desbalanceados
+- Monitoreo en Tiempo Real
+- Gestión de Riesgos Financieros (GAFILAT, UIF)
 
 ---
 
-### 🤝 Contacto
+## 🎯 Proyectos Destacados
 
-No dudes en contactarme para discutir oportunidades en Ciencia de Datos, Detección de Fraude o Análisis de Riesgo:
+### 🔴 **Detección de Fraude en Transacciones**
+Modelo de clasificación ML para identificar transacciones fraudulentas en emisores de tarjetas. Optimización con técnicas SMOTE y ajuste de threshold para maximizar recall sin comprometer precisión.
+- **Tecnologías:** Python, Scikit-learn, XGBoost, Pandas
 
-* **Correo Electrónico:** `datascience.cfernandez@gmail.com`
+### 📈 **Análisis Exploratorio de Patrones de Riesgo**
+EDA exhaustivo para descubrir tendencias y anomalías en datos transaccionales. Insights aplicados a sistemas de monitoreo y reglas de detección.
+- **Tecnologías:** Python, SQL, Matplotlib, Seaborn
 
+### 🔍 **Explicabilidad de Modelos de Riesgo**
+Implementación de SHAP/LIME para justificar decisiones de alertas de fraude. Cumplimiento con regulaciones financieras y auditoría interna.
+- **Tecnologías:** Python, SHAP, TensorFlow
+
+---
+
+## 🏆 Certificaciones & Formación Continua
+
+| Certificación | Institución | Credencial |
+|:---|:---|:---|
+| **IBM Data Science Professional Certificate** | Coursera | [Ver](https://www.coursera.org/account/accomplishments/professional-cert/ND7Z4AYCPLMO) |
+| **Machine Learning Specialization** | Coursera/Stanford | [Ver](https://www.coursera.org/account/accomplishments/specialization/752PQNYKHSYV) |
+| **Data Science Bootcamp** | Alura Cursos | [Ver](https://app.aluracursos.com/user/xavieroc93-oc/program/8/certificate) |
+
+---
+
+## 📚 Áreas de Interés
+
+🔐 Detección Avanzada de Fraude | 🎯 Anomaly Detection | ⏰ Time-Series Analysis | 📊 Feature Engineering | 🧠 Explainable AI | 📈 Risk Analytics
+
+---
+
+## 🤝 Conectemos
+
+¿Interesado en colaborar en proyectos de **Data Science**, **Detección de Fraude** o **Análisis de Riesgo**?
+
+📧 **Email:** `datascience.cfernandez@gmail.com`  
+🔗 **LinkedIn:** [javier-fernandez-fraud-analyst](https://www.linkedin.com/in/javier-fernandez-fraud-analyst)  
+💻 **GitHub:** [tu-usuario](https://github.com/tu-usuario)
+
+---
+
+<p align="center">
+  <i>🚀 Transformando datos en soluciones de seguridad financiera</i>
+</p>
 <!--
 **Xavieroc93/Xavieroc93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
