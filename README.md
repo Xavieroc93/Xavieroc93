@@ -27,12 +27,18 @@
 ### 🐍 **Lenguajes & Bases de Datos**
 - **Python** | SQL | PySpark (Big Data) | Bash/Linux
 
-### 🤖 **Machine Learning & AI**
-| Área | Expertise |
+### 🤖 **Statistics and Machine Learning**
+
+| Competencia | Detalle |
 |:---|:---|
-| **Machinelearning** | Clasificación Binaria, Regresión, Clustering, Series Temporales, Modelos supervisados y no supervisados |
-| **Técnicas Avanzadas** | Dimensionality Reduction (PCA, t-SNE, UMAP), Feature Engineering, Hyperparameter Tuning |
-| **Frameworks** | Scikit-learn, TensorFlow/Keras, XGBoost, LightGBM |
+| **Estadística Descriptiva** | Análisis exploratorio, distribuciones, correlaciones |
+| **Algoritmos de ML** | Regresión, Clasificación, Clustering, Series Temporales, Redes Neuronales |
+| **Métricas de Rendimiento** | Precisión, Recall, F1-Score, ROC-AUC, Confusion Matrix |
+| **Optimización** | Feature Selection, Validación Cruzada, Hyperparameter Tuning |
+| **Dimensionality Reduction** | PCA, t-SNE, UMAP, Autoencoders |
+| **ML Frameworks** | Scikit-learn, Scipy, TensorFlow, Keras |
+| **Data Processing** | Pandas, NumPy |
+| **Big Data** | PySpark, Dask ||
 
 ### 📊 **Visualización & BI**
 - Matplotlib | Seaborn | Plotly | **Power BI** | Streamlit | Tableau
