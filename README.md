@@ -75,12 +75,14 @@ Implementación de SHAP/LIME para justificar decisiones de alertas de fraude. Cu
 | **Machine Learning Specialization** | Coursera/Stanford | [Ver](https://www.coursera.org/account/accomplishments/specialization/752PQNYKHSYV) |
 | **Data Science Bootcamp** | Alura Cursos | [Ver](https://app.aluracursos.com/user/xavieroc93-oc/program/8/certificate) |
 | **Ciencia de datos e Inteligencia Artificial** | Universidad Nacional Piura | [Ver](https://drive.google.com/file/d/16IORQDxfGZedJKJbj-P2vUCTsvMnfGBD/view?usp=drive_link) |
+| **DIPLOMATURA ESTRATEGIAS INTEGRADAS PARA LA PREVENCIÒN DE FRAUDE FINANCIERO** | IDENTIDAD ARGENTINA | [Ver](https://socios.camaraargentina.com.ar/seguimiento/56552/7L6lDe) |
+| **ASESOR ESPECIALIZADO EN OSINT & SOCMINT** | Escuela de Inteligencia & Estrategia | [Ver](https://campus.grupogoberna.com/mod/customcert/verify_certificate.php?code=K6YCZeZFTs&qrcode=1) |
 
 ---
 
 ## 📚 Áreas de Interés
 
-🔐 Detección Avanzada de Fraude | 🎯 Anomaly Detection | ⏰ Time-Series Analysis | 📊 Feature Engineering | 🧠 Explainable AI | 📈 Risk Analytics
+🔐 Detección Avanzada de Fraude | 🎯 Data Science |📈 Risk Analytics
 
 ---
 
@@ -102,10 +104,6 @@ Estoy abierto a nuevas oportunidades, colaboraciones y retos innovadores. ¡Habl
 </p>
 
 ---
-
-<p align="center">
-  <i>🚀 Transformando datos en soluciones de seguridad financiera</i>
-</p>
 <!--
 **Xavieroc93/Xavieroc93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
